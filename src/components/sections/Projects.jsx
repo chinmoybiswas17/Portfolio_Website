@@ -102,7 +102,7 @@ const Projects = () => {
           }}
         >
           I have worked on a wide range of projects. Here are some of my
-          projects.
+          projects...
         </Desc>
 
         <CardContainer>
